@@ -1,0 +1,40 @@
+.brand-list{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.brand-list li{
+  display:block;
+  padding: 14px 16px;
+}
+#brand img:hover {
+    transform: scale(1.25);
+}
+#Schooter li:hover {
+    transform: scale(1.25);
+}
+#googlefontS{
+  font-family: 'Josefin Slab', serif;
+        font-size: 28px;
+}
+.container{
+  margin-top: 150px;
+}
+form input{
+  margin-top: 30px;
+}
+footer{
+  background-color: rgb(175,179, 176);
+}
+.foot img{
+  margin-top: -150px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      height:40%;
+      margin: auto;
+  }
